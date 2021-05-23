@@ -1,0 +1,1113 @@
+[02-May-2021 22:46:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 22:46:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[02-May-2021 22:46:29 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[02-May-2021 22:46:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 22:46:29 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:46:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:46:29 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:46:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 22:53:12 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 22:53:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 22:53:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 22:53:47 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:47 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 22:53:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[02-May-2021 23:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[02-May-2021 23:03:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:03:23 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:03:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:03:23 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:03:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:03:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:03:43 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:03:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:03:43 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:03:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:04:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:04:30 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:04:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:04:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:04:47 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:04:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:06:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:06:15 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:06:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:07:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:07:48 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:07:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:08:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:08:04 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:08:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:08:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:08:10 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:08:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:08:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:08:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[02-May-2021 23:08:33 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[02-May-2021 23:08:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:08:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:08:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:08:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:08:38 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:08:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:10:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:10:30 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:10:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:10:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:10:35 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:10:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:12:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:12:43 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:12:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:12:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 158
+[02-May-2021 23:13:17 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[02-May-2021 23:13:21 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[02-May-2021 23:14:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:14:53 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:14:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:14:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:14:58 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:14:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:15:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:15:23 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:15:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:17:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[02-May-2021 23:17:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Orders' not found in /home/saleyma/public_html/project/paradise-inn/admin/home.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 100
+[02-May-2021 23:27:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:27:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[02-May-2021 23:27:04 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[02-May-2021 23:27:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:27:06 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:27:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:27:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[02-May-2021 23:27:32 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[02-May-2021 23:27:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:05:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:05:52 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:05:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:05:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:05:59 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:05:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:05:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:05:59 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:05:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:05:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:05:59 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:05:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:06:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:06:02 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:06:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:06:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:06:02 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:06:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:08:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:08:10 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:08:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:08:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:08:28 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:08:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:08:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:08:51 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:08:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:29:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:29:25 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:29:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:29:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:29:59 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:29:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:29:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:29:59 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:29:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:30:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:30:10 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:30:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:30:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:30:54 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:30:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:36:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:36:02 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:36:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:36:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:36:14 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:36:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:49:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:49:50 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:49:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:53:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:53:26 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:53:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:53:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:53:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:53:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:54:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:54:18 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:54:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:55:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:55:34 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:55:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:55:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:55:55 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:55:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:56:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:56:31 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:56:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:56:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:56:40 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:56:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 511
+[03-May-2021 00:57:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:57:12 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 512
+[03-May-2021 00:57:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 512
+[03-May-2021 00:58:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:58:11 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 512
+[03-May-2021 00:58:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 512
+[03-May-2021 00:58:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:58:29 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 512
+[03-May-2021 00:58:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 512
+[03-May-2021 00:59:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 00:59:11 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 00:59:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:00:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:00:45 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 514
+[03-May-2021 01:00:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 514
+[03-May-2021 01:05:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:05:58 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 514
+[03-May-2021 01:05:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 514
+[03-May-2021 01:07:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:07:13 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:07:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:07:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:07:21 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:07:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:08:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:08:41 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:08:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:08:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:08:49 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:08:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 513
+[03-May-2021 01:09:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:09:45 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 515
+[03-May-2021 01:09:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 515
+[03-May-2021 01:10:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:10:00 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 515
+[03-May-2021 01:10:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 515
+[03-May-2021 01:12:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:12:51 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:12:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:13:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:13:28 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:13:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:14:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:14:00 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:14:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:14:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:14:07 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:14:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:14:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:14:55 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:14:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:15:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:15:03 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:15:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:15:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:15:45 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:15:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:15:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:15:51 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:15:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:16:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:16:27 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:16:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:16:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:16:35 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:16:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:17:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:17:39 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:17:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:17:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:17:46 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:17:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:18:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:18:02 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:18:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:18:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:18:08 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:18:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:18:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:18:30 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:18:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:26:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:26:23 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:26:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:27:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:27:21 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:27:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:28:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:28:26 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:28:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:28:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:28:35 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:28:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:29:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:29:25 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:29:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:29:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:29:31 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:29:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:30:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:30:30 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:30:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:30:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:30:48 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:30:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:32:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:32:54 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:32:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:33:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:33:05 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:33:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:33:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:33:42 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:33:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:33:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:33:50 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:33:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:33:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:33:56 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:33:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:34:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:34:05 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:34:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:41:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:41:03 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:41:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:41:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:41:09 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:41:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:44:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:44:02 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:44:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:44:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:44:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 01:44:02 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[03-May-2021 01:44:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:44:02 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:44:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:44:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:44:09 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:44:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:44:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:44:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 01:44:09 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[03-May-2021 01:44:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:44:09 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:44:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:47:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:47:20 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:47:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:47:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:47:25 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:47:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:47:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:47:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:47:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 516
+[03-May-2021 01:51:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:51:21 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:51:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:51:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:51:32 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:51:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:51:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:51:35 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:51:35 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:52:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:52:45 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:52:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:53:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:53:14 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:53:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:56:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:56:31 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:56:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 517
+[03-May-2021 01:59:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:59:36 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 01:59:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 01:59:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 01:59:46 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 01:59:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:05:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:05:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:05:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:05:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:05:40 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:05:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:07:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:07:05 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 441
+[03-May-2021 02:07:05 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:07:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:07:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:07:31 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 441
+[03-May-2021 02:07:31 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:07:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:07:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:07:47 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:07:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:08:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:08:40 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:08:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:08:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:08:56 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:08:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:09:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:09:08 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:09:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:09:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:09:31 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:09:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:09:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:09:43 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:09:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:10:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:10:27 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:10:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:11:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:11:56 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:11:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:12:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:12:03 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:12:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:12:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:12:58 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:12:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:13:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:13:55 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:13:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:14:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:14:03 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:14:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:18:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:18:56 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:18:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:19:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:19:12 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:19:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:19:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:19:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:19:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:20:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:20:09 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:20:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:20:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:20:16 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:20:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:21:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:21:25 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:21:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:21:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:21:39 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:21:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:26:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:26:54 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:26:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:28:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:28:04 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:28:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:28:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:28:11 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:28:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:31:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:31:45 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:31:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:32:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:32:06 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:32:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:32:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:32:52 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:32:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:32:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:32:55 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:32:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:32:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:32:59 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:32:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:33:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:33:57 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:33:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:34:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:34:04 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:34:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:34:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:34:41 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:34:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:38:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:38:11 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:38:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:38:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:38:19 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:38:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:38:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:38:49 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:38:49 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:38:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:38:56 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:38:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:39:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:39:28 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:39:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:39:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:39:36 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:39:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 518
+[03-May-2021 02:41:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:41:08 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:41:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:41:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:41:19 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:41:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:42:15 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 444
+[03-May-2021 02:42:19 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 444
+[03-May-2021 02:42:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:42:41 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:42:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:42:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:42:48 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:42:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 519
+[03-May-2021 02:43:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:43:32 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:43:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:43:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:43:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:43:32 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[03-May-2021 02:43:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:43:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:43:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:43:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:43:41 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:43:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:43:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:43:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:43:41 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[03-May-2021 02:43:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:43:41 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:43:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 520
+[03-May-2021 02:46:21 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 446
+[03-May-2021 02:46:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:46:43 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:46:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:46:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:46:50 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:46:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:46:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:46:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:47:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:47:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:47:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:47:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:48:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:48:36 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:48:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:48:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:48:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:48:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:48:46 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:48:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:48:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:48:55 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:48:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:48:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:48:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:49:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:49:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:49:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:49:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:49:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:49:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:50:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:50:12 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:50:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:50:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:50:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:51:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:51:18 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:51:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:51:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:51:30 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:51:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:51:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:51:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:51:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:51:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:51:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:51:34 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:51:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 521
+[03-May-2021 02:52:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:52:29 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:52:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:52:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:52:38 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:52:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:52:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:52:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:53:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:53:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:53:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:53:27 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:53:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:53:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:53:33 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:53:33 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:53:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:53:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:53:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:53:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 02:53:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:53:39 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:53:39 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:55:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:55:00 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:55:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:55:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:55:08 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:55:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:55:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:55:20 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:55:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:55:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 02:55:50 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 02:55:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 522
+[03-May-2021 03:00:53 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 448
+[03-May-2021 03:01:16 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 448
+[03-May-2021 03:02:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 449
+[03-May-2021 03:02:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 449
+[03-May-2021 03:02:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 449
+[03-May-2021 03:02:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 03:02:47 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 03:02:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 03:04:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 03:04:48 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 03:04:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 03:04:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 03:04:59 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 03:04:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 04:09:04 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 66
+[03-May-2021 04:09:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:05 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:08 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:16 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:20 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:22 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:26 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:30 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:32 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 04:09:38 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 04:09:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 05:04:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 05:04:06 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 05:04:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 05:04:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 05:04:10 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 05:04:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 05:04:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 05:04:12 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 05:04:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:21:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:21:20 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:21:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:21:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:21:27 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:21:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:23:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:23:14 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:23:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:27:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:27:56 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:27:56 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:28:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:28:02 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:28:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:28:08 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[03-May-2021 20:28:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:28:19 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:28:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:29:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:29:44 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:29:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 524
+[03-May-2021 20:31:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:31:37 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:31:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:31:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:31:42 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:31:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:31:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:31:47 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:31:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:32:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:32:38 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:32:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:36:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:36:19 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:36:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:37:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:37:26 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 20:37:26 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:37:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:38:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:38:53 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 20:38:53 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:38:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:49:23 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:49:36 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:36 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:49:40 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:49:42 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:49:43 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:43 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:49:45 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:49:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:37 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:45 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 20:53:45 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:47 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:48 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:50 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:51 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:51 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:52 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:52 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:53 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:53:55 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:53:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:54:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:54:34 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 20:54:34 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:54:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:55:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:55:17 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 20:55:17 UTC] PHP Notice:  Undefined property: User::$errors in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:55:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:57:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:57:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:57:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:57:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:58:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 525
+[03-May-2021 20:59:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:59:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:59:15 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 20:59:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 20:59:31 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 20:59:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:00:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:00:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:00:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:00:20 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 21:02:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:02:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:02:50 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 21:08:27 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[03-May-2021 21:08:47 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[03-May-2021 21:10:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:10:07 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[03-May-2021 21:10:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:10:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:10:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:10:56 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 21:11:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:11:05 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 21:11:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:11:11 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 21:15:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:15:18 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 21:15:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:15:32 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 21:16:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:16:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 21:16:23 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 21:23:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:23:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 21:23:39 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 21:25:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:25:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 21:25:38 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 21:43:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 21:43:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 21:43:50 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 22:03:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 22:03:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 22:03:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 22:06:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 22:06:33 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 414
+[03-May-2021 22:23:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 22:23:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 22:23:42 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:00:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:00:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:00:40 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:03:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:03:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:03:52 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[03-May-2021 23:13:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:13:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:13:17 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:14:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:14:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:14:06 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:14:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:14:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:14:09 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:15:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:15:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:15:03 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:16:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:16:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:16:07 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:16:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:16:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:16:07 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:18:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:18:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:18:45 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:20:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:20:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:20:26 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[03-May-2021 23:22:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:34:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[03-May-2021 23:34:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[03-May-2021 23:34:40 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[04-May-2021 00:09:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:09:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:09:28 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[04-May-2021 00:09:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:09:38 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[04-May-2021 00:17:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:18:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:18:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:19:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:19:03 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[04-May-2021 00:19:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:19:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:19:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:20:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:23:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:23:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:23:56 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[04-May-2021 00:24:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:24:07 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[04-May-2021 00:24:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:25:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:25:04 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 440
+[04-May-2021 00:27:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 475
+[04-May-2021 00:28:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:28:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:28:39 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 443
+[04-May-2021 00:40:18 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[04-May-2021 00:40:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 446
+[04-May-2021 00:41:07 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[04-May-2021 00:41:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 532
+[04-May-2021 00:41:42 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[04-May-2021 00:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[04-May-2021 00:41:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 532
+[04-May-2021 00:43:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 532
+[04-May-2021 00:44:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 532
+[04-May-2021 00:46:56 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[04-May-2021 00:47:03 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/saleyma/public_html/project/paradise-inn/admin/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/index.php on line 4
+[04-May-2021 00:47:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 531
+[04-May-2021 00:47:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:47:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:47:51 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 442
+[04-May-2021 00:47:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:47:56 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 442
+[04-May-2021 00:48:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:49:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:49:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:49:38 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 442
+[04-May-2021 00:50:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:50:14 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 442
+[04-May-2021 00:50:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:51:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:51:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:51:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:51:38 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 442
+[04-May-2021 00:52:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:52:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:52:37 UTC] PHP Notice:  Undefined index: password in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 442
+[04-May-2021 00:53:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:53:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:53:57 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 449
+[04-May-2021 00:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:450
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 450
+[04-May-2021 00:54:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:54:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:54:27 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 449
+[04-May-2021 00:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:450
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 450
+[04-May-2021 00:55:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:55:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:55:49 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 449
+[04-May-2021 00:55:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:450
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 450
+[04-May-2021 00:57:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:58:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:58:07 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 449
+[04-May-2021 00:58:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:450
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 450
+[04-May-2021 00:59:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:59:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 00:59:33 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 449
+[04-May-2021 00:59:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:450
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 450
+[04-May-2021 01:01:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:01:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:01:17 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 444
+[04-May-2021 01:01:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:445
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 445
+[04-May-2021 01:37:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:38:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:38:09 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 445
+[04-May-2021 01:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:446
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 446
+[04-May-2021 01:38:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:38:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:38:57 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 445
+[04-May-2021 01:38:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:446
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 446
+[04-May-2021 01:39:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:51:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:51:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:51:34 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 445
+[04-May-2021 01:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:446
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 446
+[04-May-2021 01:51:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:52:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:52:59 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 445
+[04-May-2021 01:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php:446
+Stack trace:
+#0 /home/saleyma/public_html/project/paradise-inn/admin/index.php(8): User->login()
+#1 {main}
+  thrown in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 446
+[04-May-2021 01:56:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:56:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:56:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:56:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[04-May-2021 01:57:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:57:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[04-May-2021 01:57:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:59:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:59:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 01:59:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[04-May-2021 02:01:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 02:01:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[04-May-2021 02:01:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 02:01:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[04-May-2021 02:01:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[04-May-2021 02:01:26 UTC] PHP Notice:  Undefined index: username in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 67
+[04-May-2021 02:01:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 18:29:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 18:29:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 21:51:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 21:51:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 21:51:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 21:51:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 21:51:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 21:51:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 21:51:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[05-May-2021 21:54:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[05-May-2021 21:54:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[08-May-2021 00:14:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:14:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:14:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:14:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[08-May-2021 00:14:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:14:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[08-May-2021 00:14:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:15:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:15:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:15:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:15:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[08-May-2021 00:27:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:27:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[08-May-2021 00:27:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:27:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:27:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:28:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:28:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:29:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:29:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:29:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:30:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:30:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:30:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:31:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:31:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:31:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:34:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:34:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:34:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:34:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:35:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:35:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:35:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:35:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:35:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:35:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:38:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:38:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:41:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:41:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:41:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:42:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:43:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:43:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:43:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:43:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:43:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:48:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:48:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:51:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 527
+[08-May-2021 00:51:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 527
+[08-May-2021 00:52:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:55:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:55:08 UTC] PHP Notice:  Array to string conversion in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 455
+[08-May-2021 00:56:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:56:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:57:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:57:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:58:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 464
+[08-May-2021 00:59:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 00:59:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 01:02:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 01:03:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 01:03:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 01:03:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[08-May-2021 01:03:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[09-May-2021 12:34:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[09-May-2021 12:34:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[09-May-2021 12:34:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[09-May-2021 12:34:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[09-May-2021 12:34:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[09-May-2021 12:34:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[09-May-2021 12:34:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
+[09-May-2021 12:34:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[10-May-2021 18:47:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[10-May-2021 18:47:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[10-May-2021 18:54:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[10-May-2021 18:54:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/src/func.php on line 5
+[10-May-2021 18:54:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/saleyma/public_html/project/paradise-inn/admin/home.php on line 4
