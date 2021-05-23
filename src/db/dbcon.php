@@ -4,9 +4,9 @@
 ob_start();
 session_start();
 
-$user = "saleyma_usr";
-$pass = ";LKmW7S5HRX0";
-$pdo = 'mysql:host=localhost;dbname=saleyma_v2';
+$user = "dbuser";
+$pass = "dbpass";
+$pdo = 'mysql:host=dbhost;dbname=dbname';
 
 try 
 {
