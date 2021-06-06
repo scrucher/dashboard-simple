@@ -4,9 +4,9 @@
 ob_start();
 session_start();
 
-$user = "dbuser";
-$pass = "dbpass";
-$pdo = 'mysql:host=dbhost;dbname=dbname';
+$user = "vhhhkjlttnjbji";
+$pass = "postgres://vhhhkjlttnjbji:629870306acdf5ddaa6d0b5feab1a6d9e0beb6cc78ac04c3bf2dde666ca79662@ec2-54-247-158-179.eu-west-1.compute.amazonaws.com:5432/dank7g2bvlct7d";
+$pdo = 'pgsql:host=ec2-54-247-158-179.eu-west-1.compute.amazonaws.com;dbname=dank7g2bvlct7d';
 
 try 
 {
@@ -19,7 +19,7 @@ try
     echo 'Connection failed : ' . $e->getMessage();
 
 }
-  /*
+
 
 
 // sql to create table
@@ -116,5 +116,4 @@ $conn->close();
 
 
 
-*/
 ?>
