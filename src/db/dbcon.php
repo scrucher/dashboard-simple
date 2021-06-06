@@ -6,7 +6,7 @@ session_start();
 
 $user = "vhhhkjlttnjbji";
 $pass = "postgres://vhhhkjlttnjbji:629870306acdf5ddaa6d0b5feab1a6d9e0beb6cc78ac04c3bf2dde666ca79662@ec2-54-247-158-179.eu-west-1.compute.amazonaws.com:5432/dank7g2bvlct7d";
-$pdo = 'pgsql:host=ec2-54-247-158-179.eu-west-1.compute.amazonaws.com;dbname=dank7g2bvlct7d';
+$pdo = 'pgsql:host=34.242.43.171;dbname=dank7g2bvlct7d';
 
 try 
 {
